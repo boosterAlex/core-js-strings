@@ -200,8 +200,6 @@ function sumOfCodes(str) {
   return sum;
 }
 
-console.log(sumOfCodes('My String'));
-
 /**
  * Checks if a string starts with a specific substring.
  *
